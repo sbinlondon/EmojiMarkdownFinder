@@ -73,8 +73,8 @@ button {
 }
 
 button:hover {
- background-color: rgba(255, 66, 66, 1.0);
- cursor: pointer; 
+  background-color: rgb(255, 252, 95);
+  cursor: pointer;
 }
 
 #modal-bg {
